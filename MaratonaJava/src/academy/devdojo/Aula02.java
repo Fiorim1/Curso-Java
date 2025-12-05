@@ -10,9 +10,11 @@ public class Aula02 {
 
         // int, double, float, char, byte, short, long e boolean
 
-        // Criar Variável = Tipo + Nome =
+        // Criar Variável = Tipo + Nome = Valor
         int age = 20;
+        
         // Imprimindo a variável "age"
         System.out.println("A idade é " + age  + " anos.");
     }
 }
+
