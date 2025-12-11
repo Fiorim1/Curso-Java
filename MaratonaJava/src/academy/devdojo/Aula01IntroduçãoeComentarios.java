@@ -1,7 +1,7 @@
 // Ter o pacote
 package academy.devdojo;
 
-public class Aula01 {
+public class Aula01IntroduçãoeComentarios {
 
     // Comentário em Linha
 
