@@ -13,9 +13,9 @@ public class Aula02 {
         // Criar Variável = Tipo + Nome = Valor
         int idade = 20;
 
-        double salarioDouble = 2000;
+        double salarioDouble = 2000.063D;
 
-        double salarioFloat = 2500;
+        float salarioFloat = 2500.085f;
 
         byte idadeByte = 10;
 
@@ -25,7 +25,7 @@ public class Aula02 {
 
         boolean falso = false;
 
-        long numeroGrande = 100000;
+        long numeroGrande = 100000L;
 
         // Usar aspas simples ''
         char caracter = 'A';
@@ -49,3 +49,5 @@ public class Aula02 {
 
     }
 }
+
+
