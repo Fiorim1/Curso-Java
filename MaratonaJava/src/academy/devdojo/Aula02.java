@@ -1,3 +1,4 @@
+
 package academy.devdojo;
 
 public class Aula02 {
@@ -47,7 +48,9 @@ public class Aula02 {
         System.out.println(caracter);
         System.out.println(uniCode);
 
+        // Fazer um CASTING (casting ele converte para o tipo primitivo solicitado pelo dev)
+        int idadeCasting = (int) 1000000000L;
+        // Imprimir o casting
+        System.out.println(idadeCasting);
     }
 }
-
-
