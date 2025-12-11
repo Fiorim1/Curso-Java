@@ -1,7 +1,7 @@
 
 package academy.devdojo;
 
-public class Aula02 {
+public class Aula02TiposPrimitivos {
 
     // Tipos Primitivos
 
