@@ -19,9 +19,9 @@ public class Aula02 {
 
         byte idadeByte = 10;
 
-        short idadeShot = 10;
+        short idadeShort = 10;
 
-        boolean verdsadeiro = true;
+        boolean verdadeiro = true;
 
         boolean falso = false;
 
@@ -29,8 +29,19 @@ public class Aula02 {
 
         // Usar aspas simples ''
         char caracter = 'A';
-        
+
         // Imprimindo a variável "age"
         System.out.println("A idade é " + idade  + " anos.");
+
+        // Impressão dos Tipos Primitivos
+        System.out.println(salarioDouble);
+        System.out.println(salarioFloat);
+        System.out.println(idadeByte);
+        System.out.println(idadeShort);
+        System.out.println(verdadeiro);
+        System.out.println(falso);
+        System.out.println(numeroGrande);
+        System.out.println(caracter);
+
     }
 }
