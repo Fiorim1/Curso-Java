@@ -30,6 +30,9 @@ public class Aula02 {
         // Usar aspas simples ''
         char caracter = 'A';
 
+        // Trabalhar com Unicode
+        char uniCode = '\u0041';
+
         // Imprimindo a variável "age"
         System.out.println("A idade é " + idade  + " anos.");
 
@@ -42,6 +45,7 @@ public class Aula02 {
         System.out.println(falso);
         System.out.println(numeroGrande);
         System.out.println(caracter);
+        System.out.println(uniCode);
 
     }
 }
