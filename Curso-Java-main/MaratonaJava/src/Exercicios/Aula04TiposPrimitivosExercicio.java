@@ -15,9 +15,9 @@ public class Aula04TiposPrimitivosExercicio {
         String endereco = "Av. Paulista, 62 - São Paulo / SP";
         float salario = 3500.50f;
         String data = "10/12/2025";
-        String fraseExerciocio = "Eu " + nome + " morando no endereço, " + endereco + " confirmo que recebi o salário de " + "R$"+salario + " na data " + data;
+        String fraseExercicio = "Eu " + nome + " morando no endereço, " + endereco + " confirmo que recebi o salário de " + "R$"+salario + " na data " + data;
 
         // Imprimindo a frase
-        System.out.println(fraseExerciocio);
+        System.out.println(fraseExercicio);
     }
 }
